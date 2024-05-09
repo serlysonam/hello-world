@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Hello all,I am Serly Sonam, MS in computer science.  Thankyou, Happy Learning and have a great day ahead. </h1>
+   <h1> Hello all, I am Serly Sonam, pursuing MS in computer science from ULL.  Thankyou, Happy Learning and have a great day ahead. </h1>
 
   
 </form>
